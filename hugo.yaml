@@ -1,0 +1,70 @@
+baseURL: "https://horoszko.github.io/kierownik/"
+publishDir: "docs"
+#baseURL: ""
+languageCode: pl-PL
+title: Jakub Horoszko
+theme: ["PaperMod"]
+
+pluralizeListTitles: false
+
+params:
+  dateFormat: 2006-01-02
+  defaultTheme: light
+  disableThemeToggle: true
+  enableEmoji: true
+#  homeInfoParams:
+#    Title: Dzień dobry, Cześć!
+#    Content: Nazywam się Jakub Horoszko posiadam uprawnienia budowane w specjalności konstrukcyjno-budowlane bez ograniczeń od ponad 10lat. Pracuję jako kierownik budowy i chętnie pomogę ci z budową twojej inwestycji, nie ważne czy to dom jednorodzinny obiekt handlowy, hala produkcyjna czy cokolwiek innego. 👷‍♂️"
+#koniec homeInfoParams
+
+  profileMode:
+    enabled: true
+    title: "Zaczynajmy!" # optional default will be site title
+    subtitle: "Szukasz **Kierownika Budowy** lub **Inspektora Nadzoru** dla swojej inwestycji ? \n\n Dobrze trafiłeś!"
+#    imageUrl: "<image link>" # optional
+#    imageTitle: "<title of image as alt>" # optional
+#    imageWidth: 120 # custom size
+#    imageHeight: 120 # custom size
+    buttons:
+      - name: O mnie
+        url: "/about"
+      - name: Poradnik
+        url: "/poradnik"
+      - name: Kontakt
+        url: "/kontakt"
+#      - name: Github
+#        url: "https://github.com/"
+#koniec profileMode
+  socialIcons:
+    - name: email
+      url: 'mailto:horoszko@gmail.com'
+    - name: phone
+      url: 'tel:+48664203160'  
+  assets:
+    customCSS:
+      - css/extended/theme-vars-override.css
+#      - css/custom.css
+#      - "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css"
+
+  #socialIcons: # optional
+  #  - name: "<platform>"
+  #    url: "<link>"
+  #  - name: "<platform 2>"
+  #    url: "<link2>"
+ 
+menu:
+  main:
+    - identifier: about
+      name: O mnie
+      url: /about/
+      weight: 1
+
+    - identifier: blog
+      name: Poradnik
+      url: /poradnik/
+      weight: 2
+
+    - identifier: kontakt
+      name: Kontakt
+      url: /kontakt/
+      weight: 3

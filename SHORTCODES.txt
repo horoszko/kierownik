@@ -1,0 +1,13 @@
+{{< callout "important" >}}
+Zrób kopię wniosku w dwóch egzemplarzach – to bardzo ważne!
+{{< /callout >}}
+
+{{< callout "warning" >}}
+Uważaj na termin! Ostateczny termin składania wniosków to 30 czerwca.
+{{< /callout >}}
+
+{{< callout "info" >}}
+Wszystkie dokumenty dostępne są w zakładce "Dokumenty".
+{{< /callout >}}
+
+{{< img src="../img/klauzula_ost.png" alt="Klauzula" width="50%" >}}

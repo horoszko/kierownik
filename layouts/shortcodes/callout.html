@@ -1,0 +1,24 @@
+{{ $type := .Get 0 | default "info" }}
+{{ $emoji := "" }}
+{{ $label := "" }}
+
+{{ if eq $type "info" }}
+  {{ $emoji = "ℹ️" }}
+  {{ $label = "INFO" }}
+{{ else if eq $type "note" }}
+  {{ $emoji = "📝" }}
+  {{ $label = "NOTATKA" }}
+{{ else if eq $type "warning" }}
+  {{ $emoji = "⚠️" }}
+  {{ $label = "UWAGA" }}
+{{ else if eq $type "important" }}
+  {{ $emoji = "❗" }}
+  {{ $label = "WAŻNE" }}
+{{ else }}
+  {{ $emoji = "ℹ️" }}
+  {{ $label = "INFO" }}
+{{ end }}
+
+<div class="callout callout-{{ $type }}">
+  <p>{{ $emoji }} <strong>{{ $label }}</strong><br>{{ .Inner | markdownify }}</p>
+</div>

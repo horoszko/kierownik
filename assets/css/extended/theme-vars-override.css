@@ -1,0 +1,40 @@
+:root {
+  --callout-important-bg: #ffebee;
+  --callout-important-border: #f44336;
+}
+
+.callout {
+  display: flex;
+  align-items: center;
+  padding: 1em;
+  margin: 1em 0;
+  border-radius: 6px;
+}
+
+.callout-icon {
+  margin-right: 1em;
+  font-size: 1.5em;
+}
+
+.callout-content {
+  flex: 1;
+}
+
+.callout-important {
+  border-color: #f44336;
+  background: #ffebee;
+}
+
+.callout-warning {
+  border-color: #ff9800;
+  background: #fff3e0;
+}
+
+.callout-info {
+  border-color: #2196f3;
+  background: #e3f2fd;
+}
+
+.callout-icon i {
+  color: inherit;
+}
