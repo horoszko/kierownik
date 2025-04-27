@@ -1,9 +1,9 @@
 baseURL: "https://horoszko.github.io/kierownik/"
+canonifyURLs: true
 publishDir: "docs"
 #baseURL: ""
 languageCode: pl-PL
 title: Jakub Horoszko
-#canonifyURLs: true
 theme: ["PaperMod"]
 
 pluralizeListTitles: false
