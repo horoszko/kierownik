@@ -17,6 +17,7 @@ params:
   defaultTheme: light
   disableThemeToggle: true
   enableEmoji: true
+  ShowReadingTime: true
 #  homeInfoParams:
 #    Title: Dzień dobry, Cześć!
 #    Content: Nazywam się Jakub Horoszko posiadam uprawnienia budowane w specjalności konstrukcyjno-budowlane bez ograniczeń od ponad 10lat. Pracuję jako kierownik budowy i chętnie pomogę ci z budową twojej inwestycji, nie ważne czy to dom jednorodzinny obiekt handlowy, hala produkcyjna czy cokolwiek innego. 👷‍♂️"

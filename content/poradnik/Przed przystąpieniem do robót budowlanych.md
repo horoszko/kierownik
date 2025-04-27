@@ -46,11 +46,13 @@ Zrób kopię lub wypełnij wniosek-zawiadomienie w dwóch egzemplarzach, aby urz
 
 Następnie udaj się do właściwego urzędu :
 -  [Powiatowy Inspektorat Nadzoru Budowlanego dla miasta Nowy Sącz](https://bip.malopolska.pl/pinbmiastonowysacz/)
-	adres: ul. Szwedzka 5, 33-300 Nowy Sącz,  
+  
+	adres: ul. Szwedzka 5, 33-300 Nowy Sącz, 
 	telefon: 18 442 20 33   
 	godziny przyjęć:  poniedziałek: 07:30-15:30  wtorek-piątek: 07:15-15:15
 
 - [Powiatowy Inspektorat Nadzoru Budowlanego w Nowym Sączu dla Powiatu Nowosądeckiego](https://bip.malopolska.pl/pinbpowiatnowosadecki,m,259725,kontakt.html)
+  
 	ul. Magazynowa 7, 33-300 Nowy Sącz
 	telefon: 18 547 51 60
 	dziennik podawczy: poniedziałek: 8:00-16:00 wtorek-piątek 7:30-15:30
