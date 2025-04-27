@@ -38,3 +38,17 @@
 .callout-icon i {
   color: inherit;
 }
+
+/* Stylowanie wszystkich linków */
+a {
+  color: #007bff; /* Domyślny kolor linku, taki jak w PaperMod */
+  text-decoration: none; /* Brak podkreślenia */
+  font-weight: normal; /* Normalna grubość czcionki */
+  transition: color 0.3s ease, text-decoration 0.3s ease, font-weight 0.3s ease; /* Płynna zmiana koloru, podkreślenia i grubości czcionki */
+}
+
+a:hover {
+  color: #007bff; /* Kolor linku po najechaniu, taki sam jak domyślny */
+  text-decoration: underline; /* Podkreślenie linku po najechaniu */
+  font-weight: bold; /* Pogrubienie linku po najechaniu */
+}

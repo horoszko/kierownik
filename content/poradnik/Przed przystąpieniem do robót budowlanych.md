@@ -41,7 +41,7 @@ Kierownik Budowy będzie miał doświadczenie również w tym zakresie i pomoże
 - Pełnomocnictwo do reprezentowania inwestora (opłacone zgodnie z ustawą z dnia 16 listopada 2006 r. o opłacie skarbowej) – jeżeli inwestor działa przez pełnomocnika.
 
 {{< callout "important" >}}
-Zrób kopię lub wypełnij wniosek-zawiadomienie w dwóch egzemplarzach, aby urzędnik mógł potwierdzić wpłynięcie wniosku pieczątką z datą i zachowaj jako dowód że dokonałeś formalności.
+**Zrób kopię** lub wypełnij wniosek-zawiadomienie w dwóch egzemplarzach, aby urzędnik mógł potwierdzić wpłynięcie wniosku pieczątką z datą i **zachowaj jako dowód że dokonałeś formalności.**
 {{< /callout >}} 
 
 Następnie udaj się do właściwego urzędu :
@@ -58,9 +58,9 @@ Następnie udaj się do właściwego urzędu :
 	dziennik podawczy: poniedziałek: 8:00-16:00 wtorek-piątek 7:30-15:30
 
 {{< callout "important" >}}
- "Zawiadomienie o zamierzonym terminie rozpoczęcia robót budowlanych" należy złożyć przed ich rozpoczęciem - w praktyce wystarczy jeden dzień wcześniej. Należy jednak pamiętać, że zgodnie z art. 41 PB Rozpoczęcie budowy następuje z chwilą podjęcia prac przygotowawczych na terenie budowy. Wytyczenie geodezyjne, wykonanie niwelacji terenu (praca koparki), zagospodarowanie terenu budowy wraz z infrastrukturą tymczasowych obiektów czy wykonanie przyłączy do sieci infrastruktury technicznej na potrzeby budowy jest równoznaczne z jej rozpoczęciem.
+ "Zawiadomienie o zamierzonym terminie rozpoczęcia robót budowlanych" należy złożyć **przed ich rozpoczęciem** - w praktyce **wystarczy jeden dzień wcześniej**. Należy jednak pamiętać, że zgodnie z art. 41 PB Rozpoczęcie budowy następuje z chwilą podjęcia prac przygotowawczych na terenie budowy. Wytyczenie geodezyjne, wykonanie niwelacji terenu (praca koparki), zagospodarowanie terenu budowy wraz z infrastrukturą tymczasowych obiektów czy wykonanie przyłączy do sieci infrastruktury technicznej na potrzeby budowy jest równoznaczne z jej rozpoczęciem.
 {{< /callout >}}
 
 {{< callout "warning" >}}
-Zgodnie z art. 93 PB - Kto przystępuje do budowy lub prowadzi roboty budowlane bez zawiadomienia organu nadzoru budowlanego (PINB) podlega karze grzywny.
+Zgodnie z art. 93 PB - Kto przystępuje do budowy lub prowadzi roboty budowlane bez zawiadomienia organu nadzoru budowlanego (PINB) **podlega karze grzywny.**
 {{< /callout >}}
