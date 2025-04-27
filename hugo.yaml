@@ -3,6 +3,7 @@ publishDir: "docs"
 #baseURL: ""
 languageCode: pl-PL
 title: Jakub Horoszko
+canonifyURLs: true
 theme: ["PaperMod"]
 
 pluralizeListTitles: false
