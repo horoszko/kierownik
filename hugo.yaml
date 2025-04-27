@@ -32,11 +32,11 @@ params:
 #    imageHeight: 120 # custom size
     buttons:
       - name: O mnie
-        url: "/about"
+        url: "/about/"
       - name: Poradnik
-        url: "/poradnik"
+        url: "/poradnik/"
       - name: Kontakt
-        url: "/kontakt"
+        url: "/kontakt/"
 #      - name: Github
 #        url: "https://github.com/"
 #koniec profileMode
